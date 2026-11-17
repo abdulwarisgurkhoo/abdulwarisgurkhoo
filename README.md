@@ -189,30 +189,12 @@
 
 ## 📊 Live Telemetry & GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwarisgurkhoo&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=070A12&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwarisgurkhoo&theme=tokyonight&hide_border=false&border_color=00f2fe&background=070A12&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=c9d1d9&currStreakLabel=00f2fe&sideLabels=00f2fe&dates=c9d1d9" height="195" alt="GitHub Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/abdulwarisgurkhoo/abdulwarisgurkhoo/main/assets/analytics-card.svg" alt="Developer Telemetry & Codebase Metrics" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwarisgurkhoo&layout=donut&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=070A12&title_color=00f2fe&text_color=c9d1d9&langs_count=8" height="190" alt="Top Languages Donut" />
-</p>
+<br/><br/>
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       9. GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Milestones & Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulwarisgurkhoo&theme=tokyonight&no-bg=false&no-frame=false&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" width="100%" />
+<a href="https://github.com/abdulwarisgurkhoo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwarisgurkhoo&theme=tokyonight&hide_border=false&border_color=00f2fe&background=070A12&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=c9d1d9&currStreakLabel=00f2fe&sideLabels=00f2fe&dates=c9d1d9" alt="GitHub Streak" width="85%" />
 </a>
 
 </div>
@@ -220,7 +202,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       10. ACTIVITY GRAPH                               -->
+<!--                       9. ACTIVITY GRAPH                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -236,29 +218,26 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       11. PINNED & POPULAR REPOSITORIES                -->
+<!--                       10. FEATURED CODEBASES TABLE                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 💼 Featured Engineering Repositories
+## 💼 Featured Engineering Codebases
 
-<p align="center">
-  <a href="https://github.com/abdulwarisgurkhoo/coursera_assignment.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulwarisgurkhoo&repo=coursera_assignment.github.io&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=070A12&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe" width="410" alt="Coursera Assignments" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/abdulwarisgurkhoo/sorting_algorithm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulwarisgurkhoo&repo=sorting_algorithm&theme=tokyonight&hide_border=false&border_color=00f2fe&bg_color=070A12&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe" width="410" alt="Sorting Algorithms" />
-  </a>
-</p>
+| 🚀 Codebase | 🛠️ Tech Stack | 📌 System Purpose | 🔗 Repository |
+|:---|:---:|:---|:---:|
+| **Coursera Assignments Portfolio** | `HTML5` `CSS3` `JavaScript` | Front-end web development assignments & responsive client layouts | [**View Repository →**](https://github.com/abdulwarisgurkhoo/coursera_assignment.github.io) |
+| **Sorting Algorithm Suite** | `C++` `DSA` `Algorithms` | Benchmark implementations of linear and recursive sorting algorithms | [**View Repository →**](https://github.com/abdulwarisgurkhoo/sorting_algorithm) |
+| **Array Sorting Questions** | `C++` `Data Structures` | Problem-solving repository dedicated to linear data structure arrays | [**View Repository →**](https://github.com/abdulwarisgurkhoo/array_sorting_questions) |
+| **Recursive Natural Calculations** | `C++` `Recursion` | Core recursion implementations for natural numbers & recursive sequences | [**View Repository →**](https://github.com/abdulwarisgurkhoo/to_fine_sum_of_n_natural_numbers_using_recursion) |
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       12. FOOTER BANNER & CTA                          -->
+<!--                       11. FOOTER BANNER & CTA                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
