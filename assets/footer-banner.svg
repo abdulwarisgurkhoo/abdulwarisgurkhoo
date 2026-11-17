@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070A12" />
+      <stop offset="100%" stop-color="#0B0F19" />
+    </linearGradient>
+    <linearGradient id="footLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
+      <stop offset="30%" stop-color="#00f2fe" stop-opacity="1" />
+      <stop offset="70%" stop-color="#7928ca" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ff007f" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="footerGlow" cx="50%" cy="100%" r="80%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#070A12" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .f-mono { font-family: 'JetBrains Mono', 'Fira Code', monospace; }
+    .f-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <rect width="100%" height="100%" fill="url(#footerBg)" rx="14"/>
+  <rect width="100%" height="100%" fill="url(#footerGlow)" rx="14"/>
+
+  <!-- Top Accent Glowing Horizon -->
+  <line x1="50" y1="2" x2="1150" y2="2" stroke="url(#footLine)" stroke-width="3"/>
+
+  <!-- Center Content -->
+  <g transform="translate(600, 65)">
+    <text text-anchor="middle" fill="#f8fafc" class="f-sans" font-size="24" font-weight="900" letter-spacing="1">
+      READY TO ARCHITECT THE NEXT BREAKTHROUGH?
+    </text>
+  </g>
+
+  <g transform="translate(600, 105)">
+    <text text-anchor="middle" fill="#94a3b8" class="f-mono" font-size="14">
+      Open for High-Impact Projects • AI/ML Research • Cyber Defense • IoT Solutions
+    </text>
+  </g>
+
+  <g transform="translate(600, 145)">
+    <text text-anchor="middle" fill="#00f2fe" class="f-mono" font-size="13" font-weight="700" letter-spacing="2">
+      "ALWAYS THINK BIG — ONLY THEN CAN YOU ACHIEVE BIG"
+    </text>
+  </g>
+
+  <g transform="translate(600, 185)">
+    <text text-anchor="middle" fill="#64748b" class="f-mono" font-size="11">
+      Designed &amp; Engineered by Abdul Waris Gurkhoo // 2026 // All Systems Nominal
+    </text>
+  </g>
+</svg>
